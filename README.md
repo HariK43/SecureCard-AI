@@ -83,7 +83,7 @@ The notebook generates the following visualizations:
 ## Contact
 For questions or support, please contact:
 
-- **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+- **Hari Satyasai Kurra**: [harisatyasai43@gmail.com](mailto: harisatyasai43@gmail.com)
   
 ## Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
