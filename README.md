@@ -25,7 +25,7 @@ To get started with the project:
 
 Clone the repository:
 
-    git clone https://github.com/manish3173/CardSafe-AI.git
+    git clone https://github.com/HariK43/SecureCard-AI.git
 Navigate to the project directory:
 
 
